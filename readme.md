@@ -5,3 +5,7 @@ This project builds a cloud-based ETL pipeline that ingests, transforms, and vis
 table of content
 Tools & Technologies
 Disclaimer
+
+py -m venv myEnvi_name
+myEnvi_name\Scripts\activate
+python -m pip install --upgrade pip
